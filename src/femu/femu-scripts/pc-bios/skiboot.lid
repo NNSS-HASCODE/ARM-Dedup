@@ -1,0 +1,1 @@
+/home/wenyuhong/git/IODA-SOSP21-AE/src/iodaFEMU/pc-bios/skiboot.lid
